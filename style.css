@@ -1,7 +1,4 @@
-body {
-    background: #cccccc;
-    text-align: center;
-}
+
 
 .negrito {
     font-size: 20px;
@@ -18,4 +15,8 @@ body {
 
 .imagembeneficio {
     width: 50%;
+} 
+.principal{
+    background-color: aqua;
+
 }
